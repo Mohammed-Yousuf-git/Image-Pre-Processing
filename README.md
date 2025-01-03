@@ -36,3 +36,5 @@ Removes artifacts: Corrects imperfections introduced during image acquisition.
 Standardizes data: Ensures consistent input for algorithms.
 In summary, image preprocessing optimizes data quality, making it more suitable for subsequent analysis or machine learning tasks. 
 Remember that the choice of preprocessing techniques depends on the specific problem and dataset. 📸👓🌟</li></pre>
+
+I acknowledge my Thanks to Dr.Victor Agughasi,MitM for helping me in this project.
